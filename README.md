@@ -1,13 +1,11 @@
 # PlasmaRAT
-Remote Access Trojan(RAT), Miner, DDoS
-#### All responsibilities are at your own risk.
-#### Please use it only for research purposes.
-# Feature
-* Remote Desktop
-* Keylogger
+Троян удаленного доступа (RAT), майнер, DDoS 
+#### В ознакомительных целях.
+# Фукнции
+* Удаленный рабочий стол
+* Кейлоггер
 * DDoS
-* Miner
-* Startup Control
-* Network Connection View
-* Native Method Controller
-
+* Майнер
+* Контроль запуска и автозапуска
+* Просмотр сетевого подключения 
+* Контроллер собственных методов 
